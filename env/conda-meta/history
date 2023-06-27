@@ -1,0 +1,122 @@
+==> 2023-06-04 12:01:35 <==
+# cmd: /Users/shivanshusharma/miniforge3/bin/conda create --prefix ./env python=3.8
+# conda version: 23.3.1
++conda-forge/noarch::pip-23.1.2-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-67.7.2-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.40.0-pyhd8ed1ab_0
++conda-forge/osx-arm64::bzip2-1.0.8-h3422bc3_4
++conda-forge/osx-arm64::ca-certificates-2023.5.7-hf0a4a13_0
++conda-forge/osx-arm64::libffi-3.4.2-h3422bc3_5
++conda-forge/osx-arm64::libsqlite-3.42.0-hb31c410_0
++conda-forge/osx-arm64::libzlib-1.2.13-h03a7124_4
++conda-forge/osx-arm64::ncurses-6.3-h07bb92c_1
++conda-forge/osx-arm64::openssl-3.1.1-h53f4e23_1
++conda-forge/osx-arm64::python-3.8.16-h3ba56d0_1_cpython
++conda-forge/osx-arm64::readline-8.2-h92ec313_1
++conda-forge/osx-arm64::tk-8.6.12-he1e0b03_0
++conda-forge/osx-arm64::xz-5.2.6-h57fd34a_0
+# update specs: ['python=3.8']
+==> 2023-06-04 12:04:22 <==
+# cmd: /Users/shivanshusharma/miniforge3/bin/conda install pyspark
+# conda version: 23.3.1
++conda-forge/noarch::py4j-0.10.9.7-pyhd8ed1ab_0
++conda-forge/noarch::pyspark-3.4.0-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
++conda-forge/noarch::python-tzdata-2023.3-pyhd8ed1ab_0
++conda-forge/noarch::pytz-2023.3-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/osx-arm64::aws-c-auth-0.6.27-h71e70db_1
++conda-forge/osx-arm64::aws-c-cal-0.5.26-h5f09868_1
++conda-forge/osx-arm64::aws-c-common-0.8.19-hb547adb_0
++conda-forge/osx-arm64::aws-c-compression-0.2.16-hf5f6f59_7
++conda-forge/osx-arm64::aws-c-event-stream-0.2.20-h589842e_7
++conda-forge/osx-arm64::aws-c-http-0.7.7-h262875d_4
++conda-forge/osx-arm64::aws-c-io-0.13.21-h6297769_5
++conda-forge/osx-arm64::aws-c-mqtt-0.8.11-h6d34d79_1
++conda-forge/osx-arm64::aws-c-s3-0.3.0-h2ea4599_2
++conda-forge/osx-arm64::aws-c-sdkutils-0.1.9-hf5f6f59_2
++conda-forge/osx-arm64::aws-checksums-0.1.14-hf5f6f59_7
++conda-forge/osx-arm64::aws-crt-cpp-0.20.2-hcf593e6_0
++conda-forge/osx-arm64::aws-sdk-cpp-1.10.57-h015ea4b_13
++conda-forge/osx-arm64::c-ares-1.19.1-hb547adb_0
++conda-forge/osx-arm64::gflags-2.2.2-hc88da5d_1004
++conda-forge/osx-arm64::glog-0.6.0-h6da1cb0_0
++conda-forge/osx-arm64::krb5-1.20.1-h69eda48_0
++conda-forge/osx-arm64::libabseil-20230125.2-cxx17_h13dd4ca_2
++conda-forge/osx-arm64::libarrow-12.0.0-hba0abc1_6_cpu
++conda-forge/osx-arm64::libblas-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::libbrotlicommon-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::libbrotlidec-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::libbrotlienc-1.0.9-h1a8c8d9_8
++conda-forge/osx-arm64::libcblas-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::libcrc32c-1.1.2-hbdafb3b_0
++conda-forge/osx-arm64::libcurl-8.1.2-h912dcd9_0
++conda-forge/osx-arm64::libcxx-16.0.5-h4653b0c_0
++conda-forge/osx-arm64::libedit-3.1.20191231-hc8eb9b7_2
++conda-forge/osx-arm64::libev-4.33-h642e427_1
++conda-forge/osx-arm64::libevent-2.1.12-h2757513_1
++conda-forge/osx-arm64::libgfortran-5.0.0-12_2_0_hd922786_31
++conda-forge/osx-arm64::libgfortran5-12.2.0-h0eea778_31
++conda-forge/osx-arm64::libgoogle-cloud-2.11.0-he22f4c0_0
++conda-forge/osx-arm64::libgrpc-1.54.2-h0a338ca_2
++conda-forge/osx-arm64::liblapack-3.9.0-16_osxarm64_openblas
++conda-forge/osx-arm64::libnghttp2-1.52.0-hae82a92_0
++conda-forge/osx-arm64::libopenblas-0.3.21-openmp_hc731615_3
++conda-forge/osx-arm64::libprotobuf-3.21.12-hb5ab8b9_0
++conda-forge/osx-arm64::libssh2-1.11.0-h7a5bd25_0
++conda-forge/osx-arm64::libthrift-0.18.1-ha061701_1
++conda-forge/osx-arm64::libutf8proc-2.8.0-h1a8c8d9_0
++conda-forge/osx-arm64::llvm-openmp-16.0.5-h1c12783_0
++conda-forge/osx-arm64::lz4-c-1.9.4-hb7217d7_0
++conda-forge/osx-arm64::numpy-1.24.3-py38ha84db1f_0
++conda-forge/osx-arm64::orc-1.8.3-hef0d403_0
++conda-forge/osx-arm64::pandas-2.0.2-py38hefb543e_0
++conda-forge/osx-arm64::pyarrow-12.0.0-py38ha61842b_6_cpu
++conda-forge/osx-arm64::python_abi-3.8-3_cp38
++conda-forge/osx-arm64::re2-2023.03.02-hc5e2d97_0
++conda-forge/osx-arm64::snappy-1.1.10-h17c5cce_0
++conda-forge/osx-arm64::zlib-1.2.13-h03a7124_4
++conda-forge/osx-arm64::zstd-1.5.2-hf913c23_6
+# update specs: ['pyspark']
+==> 2023-06-04 12:05:05 <==
+# cmd: /Users/shivanshusharma/miniforge3/condabin/conda install -c conda-forge --prefix /Users/shivanshusharma/Documents/cheatsheets/env ipykernel -y
+# conda version: 23.3.1
++conda-forge/noarch::appnope-0.1.3-pyhd8ed1ab_0
++conda-forge/noarch::asttokens-2.2.1-pyhd8ed1ab_0
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::backports-1.0-pyhd8ed1ab_3
++conda-forge/noarch::backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0
++conda-forge/noarch::comm-0.1.3-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::executing-1.2.0-pyhd8ed1ab_0
++conda-forge/noarch::importlib-metadata-6.6.0-pyha770c72_0
++conda-forge/noarch::importlib_metadata-6.6.0-hd8ed1ab_0
++conda-forge/noarch::ipykernel-6.23.1-pyh736e0ef_0
++conda-forge/noarch::jedi-0.18.2-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-8.2.0-pyhd8ed1ab_0
++conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.5.6-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.1-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
++conda-forge/noarch::pexpect-4.8.0-pyh1a96a4e_2
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::platformdirs-3.5.1-pyhd8ed1ab_0
++conda-forge/noarch::prompt-toolkit-3.0.38-pyha770c72_0
++conda-forge/noarch::ptyprocess-0.7.0-pyhd3deb0d_0
++conda-forge/noarch::pure_eval-0.2.2-pyhd8ed1ab_0
++conda-forge/noarch::pygments-2.15.1-pyhd8ed1ab_0
++conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
++conda-forge/noarch::traitlets-5.9.0-pyhd8ed1ab_0
++conda-forge/noarch::typing-extensions-4.6.3-hd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.6.3-pyha770c72_0
++conda-forge/noarch::wcwidth-0.2.6-pyhd8ed1ab_0
++conda-forge/noarch::zipp-3.15.0-pyhd8ed1ab_0
++conda-forge/osx-arm64::debugpy-1.6.7-py38h2b1e499_0
++conda-forge/osx-arm64::ipython-8.4.0-py38h10201cd_0
++conda-forge/osx-arm64::jupyter_core-5.3.0-py38h10201cd_0
++conda-forge/osx-arm64::libsodium-1.0.18-h27ca646_1
++conda-forge/osx-arm64::psutil-5.9.5-py38hb991d35_0
++conda-forge/osx-arm64::pyzmq-25.1.0-py38hef91016_0
++conda-forge/osx-arm64::tornado-6.3.2-py38hb192615_0
++conda-forge/osx-arm64::zeromq-4.3.4-hbdafb3b_1
+# update specs: ['ipykernel']

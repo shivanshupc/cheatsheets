@@ -1,0 +1,10 @@
+prefix=/Users/shivanshusharma/Documents/cheatsheets/env
+exec_prefix=/Users/shivanshusharma/Documents/cheatsheets/env/bin
+libdir=/Users/shivanshusharma/Documents/cheatsheets/env/lib
+includedir=/Users/shivanshusharma/Documents/cheatsheets/env/include
+
+Name: libutf8proc
+Description: UTF8 processing
+Version: 2.8.0
+Libs: -L${libdir} -lutf8proc
+Cflags: -I${includedir} -DUTF8PROC_EXPORTS

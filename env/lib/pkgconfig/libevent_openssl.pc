@@ -1,0 +1,16 @@
+#libevent pkg-config source file
+
+prefix=/Users/shivanshusharma/Documents/cheatsheets/env
+exec_prefix=/Users/shivanshusharma/Documents/cheatsheets/env
+libdir=/Users/shivanshusharma/Documents/cheatsheets/env/lib
+includedir=/Users/shivanshusharma/Documents/cheatsheets/env/include
+
+Name: libevent_openssl
+Description: libevent_openssl adds openssl-based TLS support to libevent
+Version: 2.1.12
+Requires: libevent
+Conflicts:
+Libs: -L${libdir} -levent_openssl
+Libs.private:   -L/Users/shivanshusharma/Documents/cheatsheets/env/lib/libssl.dylib -L/Users/shivanshusharma/Documents/cheatsheets/env/lib/libcrypto.dylib
+Cflags: -I${includedir} 
+

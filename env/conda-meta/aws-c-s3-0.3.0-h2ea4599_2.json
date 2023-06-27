@@ -1,0 +1,113 @@
+{
+  "build": "h2ea4599_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "aws-c-auth >=0.6.27,<0.6.28.0a0",
+    "aws-c-cal >=0.5.26,<0.5.27.0a0",
+    "aws-c-common >=0.8.19,<0.8.20.0a0",
+    "aws-c-http >=0.7.7,<0.7.8.0a0",
+    "aws-c-io >=0.13.21,<0.13.22.0a0",
+    "aws-checksums >=0.1.14,<0.1.15.0a0"
+  ],
+  "extracted_package_dir": "/Users/shivanshusharma/miniforge3/pkgs/aws-c-s3-0.3.0-h2ea4599_2",
+  "features": "",
+  "files": [
+    "include/aws/s3/exports.h",
+    "include/aws/s3/s3.h",
+    "include/aws/s3/s3_client.h",
+    "lib/aws-c-s3/cmake/aws-c-s3-config.cmake",
+    "lib/aws-c-s3/cmake/shared/aws-c-s3-targets-release.cmake",
+    "lib/aws-c-s3/cmake/shared/aws-c-s3-targets.cmake",
+    "lib/libaws-c-s3.0unstable.dylib",
+    "lib/libaws-c-s3.1.0.0.dylib",
+    "lib/libaws-c-s3.dylib"
+  ],
+  "fn": "aws-c-s3-0.3.0-h2ea4599_2.conda",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/shivanshusharma/miniforge3/pkgs/aws-c-s3-0.3.0-h2ea4599_2",
+    "type": 1
+  },
+  "md5": "9d477ec4087f5f5fa7a937381f850c08",
+  "name": "aws-c-s3",
+  "package_tarball_full_path": "/Users/shivanshusharma/miniforge3/pkgs/aws-c-s3-0.3.0-h2ea4599_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/aws/s3/exports.h",
+        "path_type": "hardlink",
+        "sha256": "4c444654892e98799390d2e63b898cb6df098015f8b90fc2294007977de1ebc7",
+        "sha256_in_prefix": "4c444654892e98799390d2e63b898cb6df098015f8b90fc2294007977de1ebc7",
+        "size_in_bytes": 893
+      },
+      {
+        "_path": "include/aws/s3/s3.h",
+        "path_type": "hardlink",
+        "sha256": "dd1ca61c06ae3c27b2d8e1d8e60787d7147d4444ad21815347ef3546a3d45283",
+        "sha256_in_prefix": "dd1ca61c06ae3c27b2d8e1d8e60787d7147d4444ad21815347ef3546a3d45283",
+        "size_in_bytes": 2997
+      },
+      {
+        "_path": "include/aws/s3/s3_client.h",
+        "path_type": "hardlink",
+        "sha256": "505b6afc059259a8ab2c88a551313b80e4f9a55577e3cb14cc523dfb7c1a7007",
+        "sha256_in_prefix": "505b6afc059259a8ab2c88a551313b80e4f9a55577e3cb14cc523dfb7c1a7007",
+        "size_in_bytes": 26626
+      },
+      {
+        "_path": "lib/aws-c-s3/cmake/aws-c-s3-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "c82e60fb7294608cfdb379a5f1737122871583c6ed9f9d00ae81411175e4ca13",
+        "sha256_in_prefix": "c82e60fb7294608cfdb379a5f1737122871583c6ed9f9d00ae81411175e4ca13",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "lib/aws-c-s3/cmake/shared/aws-c-s3-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "074905145c45fdc879f321bfc068fdfd6fc7025f571d1c3cde52b8aabca3907b",
+        "sha256_in_prefix": "074905145c45fdc879f321bfc068fdfd6fc7025f571d1c3cde52b8aabca3907b",
+        "size_in_bytes": 875
+      },
+      {
+        "_path": "lib/aws-c-s3/cmake/shared/aws-c-s3-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "c3b6360911e17ad1ee75d2a3f80fc437ad2e8d8d0cf65a9258842cfc24b75e52",
+        "sha256_in_prefix": "c3b6360911e17ad1ee75d2a3f80fc437ad2e8d8d0cf65a9258842cfc24b75e52",
+        "size_in_bytes": 4217
+      },
+      {
+        "_path": "lib/libaws-c-s3.0unstable.dylib",
+        "path_type": "softlink",
+        "sha256": "5d832264b9fbdd1d30a6a8a542cfc2d015b120de53e50c0666e9de6de4772ae1",
+        "size_in_bytes": 187232
+      },
+      {
+        "_path": "lib/libaws-c-s3.1.0.0.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/aws-c-s3_1684115082802/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "5d832264b9fbdd1d30a6a8a542cfc2d015b120de53e50c0666e9de6de4772ae1",
+        "sha256_in_prefix": "446c6bd2a7c28d94387f9426e472bca3c26b3c1e21cc11368eda0e4e829cfaaa",
+        "size_in_bytes": 187232
+      },
+      {
+        "_path": "lib/libaws-c-s3.dylib",
+        "path_type": "softlink",
+        "sha256": "5d832264b9fbdd1d30a6a8a542cfc2d015b120de53e50c0666e9de6de4772ae1",
+        "size_in_bytes": 187232
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "556e2179cb561d3e68997715c112a6d8cdcdbcf0c6d9956cf0e79610b4f63d21",
+  "size": 70890,
+  "subdir": "osx-arm64",
+  "timestamp": 1684115482221,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-s3-0.3.0-h2ea4599_2.conda",
+  "version": "0.3.0"
+}
